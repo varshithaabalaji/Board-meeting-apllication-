@@ -1,0 +1,89 @@
+.title {
+    padding-top: 150px; 
+    text-align: center;
+    font-size: 6.5rem;
+    color: floralwhite;
+}
+
+/* .container {
+    position: fixed;
+    margin-left: 15%;
+    padding-left: 15%;
+} */
+
+.landing {
+    background-color: black;
+    height:100%;
+    width:100%;    
+    left: 0;
+    position: absolute;
+}
+
+
+html,body {
+    
+    margin:0; 
+    padding:0; 
+    height:100%; 
+    width:100%;
+}
+
+#root {
+    height: 100%;
+    /* background-color: black;*/
+} 
+
+.navcolor {
+    background-color: black;
+    color: floralwhite;
+}
+
+.navbar-link {
+    color: floralwhite; 
+}
+
+/* #about
+{
+    background-color: floralwhite;
+} */
+
+/* #myNav {
+    box-shadow: none;
+    background-color: transparent;
+    transition: background-color 0.2s ease;
+} */
+
+/* .bg {
+    background: linear-gradient(to bottom,rgba(92,77,66,.8) 0,rgba(92,77,66,.8) 100%),url(./background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    height: 100%;
+}  */
+
+.subtitle {
+    color: floralwhite;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 0;
+}
+button {
+    margin-top: 5px;
+}
+
+.btn-outline-info {
+    font-weight: 700;
+    color: floralwhite;
+    border-color: teal; 
+    background-color: teal;
+    border-width: 2px;
+    padding: 0.5rem 2rem;
+    border-radius: 1rem;
+}
+
+.btn-outline-info:hover {
+    font-weight: 600;
+    background-color: teal;
+    color: floralwhite; 
+}

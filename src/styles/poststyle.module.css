@@ -1,0 +1,18 @@
+.cardsize{
+    margin: 0 auto; 
+    float: none; 
+    /* margin-bottom: 20px;
+    margin-top:20px;
+    margin-left: 400px;
+    margin-right: 400px ;  */
+}
+.commenterImg {
+    width:30px;
+    margin-right:5px;
+    height:100%;
+    float:left;
+}
+.commenterImg img {
+    width:100%;
+    border-radius:50%;
+}
